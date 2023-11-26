@@ -22,4 +22,5 @@ public class Kendaraan {
         DecimalFormat df = new DecimalFormat("#.###");
         return df.format(waktu);
     }
+
 }

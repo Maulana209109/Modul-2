@@ -13,4 +13,5 @@ public class MainApp {
         System.out.println(bus.toString());
         System.out.println("Waktu untuk jarak tempuh Bus berkecepatan 200 km: " + bus.hitungWaktu(200) + " jam");
     }
+
 }

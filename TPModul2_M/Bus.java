@@ -11,4 +11,5 @@ public class Bus extends Kendaraan {
         return super.toString() +
                 "Jumlah Kursi: " + jmlkursi;
     }
+
 }

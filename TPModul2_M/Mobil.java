@@ -10,4 +10,5 @@ public class Mobil extends Kendaraan {
         return super.toString() +
                 "Jumlah Pintu: " + jmlPintu;
     }
+
 }
